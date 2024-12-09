@@ -5,3 +5,10 @@ These courses are available in deeplearningAI platform freely.
 
 ## Course 1 : LangChain for LLM Application Development
 [Link to the course](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
+
+
+### Requirements 
+```
+pip install python-dotenv
+pip install openai
+```
