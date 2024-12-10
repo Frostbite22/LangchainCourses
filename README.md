@@ -7,10 +7,12 @@ These courses are available in deeplearningAI platform freely.
 [Link to the course](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development/)
 
 
+### Instructions
+Set OPENAI_API_KEY environment variable as well as GITHUB_TOKEN
+
 ### Requirements 
 ```
 pip install python-dotenv
 pip install openai
 pip install langchain-community langchain-core
-pip install --upgrade langchain
 ```
