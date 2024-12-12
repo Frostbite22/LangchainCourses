@@ -15,4 +15,5 @@ Set OPENAI_API_KEY environment variable as well as GITHUB_TOKEN
 pip install python-dotenv
 pip install openai
 pip install langchain-community langchain-core
+pip install langchain-openai
 ```
