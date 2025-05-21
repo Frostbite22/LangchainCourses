@@ -19,5 +19,5 @@ pip install langchain-openai
 ```
 or 
 ```
-uv pip install python-dotenv openai langchain-community langchain-core langchain-openai
+uv pip install python-dotenv openai langchain-community langchain-core langchain-openai docarray
 ```
