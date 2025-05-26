@@ -19,7 +19,7 @@ You can use a ```.env``` file for that
 ### Requirements 
 Install it with uv package management or with pip
 ```
-uv pip install python-dotenv openai langchain-community langchain-core langchain-openai docarray
+uv pip install python-dotenv openai langchain-community langchain-core langchain-openai docarray bs4
 ```
 
 ## Note 
